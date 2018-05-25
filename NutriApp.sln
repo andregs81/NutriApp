@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutriApp", "NutriApp\NutriApp.csproj", "{5EE9A7F1-0F8D-415D-9CAC-C615B04CDBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EE9A7F1-0F8D-415D-9CAC-C615B04CDBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE9A7F1-0F8D-415D-9CAC-C615B04CDBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE9A7F1-0F8D-415D-9CAC-C615B04CDBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE9A7F1-0F8D-415D-9CAC-C615B04CDBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00673559-503F-4F57-94D4-F66744E38554}
+	EndGlobalSection
+EndGlobal
